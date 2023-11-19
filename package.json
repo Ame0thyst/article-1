@@ -1,0 +1,24 @@
+{
+  "name": "articlecapstone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Ame0thyst/article-1.git"
+  },
+  "author": "Gilang Wiko Wicaksono",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ame0thyst/article-1/issues"
+  },
+  "homepage": "https://github.com/Ame0thyst/article-1#readme",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2",
+    "@hapi/inert": "^7.1.0",
+    "nodemon": "^3.0.1"
+  }
+}
